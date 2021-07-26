@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jackson;Cameron;;;
+N:Jackson;Cam;;;
 FN: Jackson  Cameron 
 ORG:Australasia.com;
-TITLE:CEO Founder & Software Developer
+TITLE:CEO Founder & Lead Software Developer
 EMAIL;type=INTERNET;type=WORK;type=pref:australasia.com@gmail.com
 TEL;type=WORK;type=VOICE:+61 0423639007
-item1.ADR;type=WORK;type=pref:;;1 North Queensland\, 09-01;;;;Australasia
+item1.ADR;type=WORK;type=pref:;;1 North Queensland\, ;;;;Australasia
 item1.X-ABADR:sg
 item2.URL;type=pref:australasia.com
 item2.X-ABLabel:_$!<HomePage>!$_
